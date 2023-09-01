@@ -1,0 +1,1 @@
+NextJS trailing slash removed issue
